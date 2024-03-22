@@ -17,10 +17,21 @@ public class Exercicio75 {
         System.out.print("Elemento " + (i + 1) + ": ");
         iVet[i] = scanner.nextInt();
     }
+
+    int organizado[] = new int[tamanho];
+    organizado = OrdenacaoQuickSortInt(iVet, 0, iVet.length - 1);
+
+    System.out.println("Números organizados:");
+
+    for (int i = 0; i < tamanho; i++) {
+      System.out.print(iVet[i] + " ");
+    }
+
+    scanner.close();
   }
   
   
-  public static void OrdenaçaoQuickSortInt (int iVet[], int iBaixo, int iAlto)
+  public static int[] OrdenacaoQuickSortInt (int iVet[], int iBaixo, int iAlto)
     {
         int iP,iB,iA;
         int iPivot;
@@ -49,14 +60,8 @@ public class Exercicio75 {
         iP=iBaixo;
         iBaixo=iB;
         iAlto=iA;
-        if(iBaixo < iP) OrdenaçãoQuickSortInt (iVet, iBaixo, iP-1);
-        if (iAlto > iP) OrdenaçãoQuickSortInt (iVet, iP+1, iAlto);
-        
-        System.out.println("Números organizados:");
-
-        for (int i = 0; i < tamanho; i++) {
-            System.out.print(iVet[i] + " ");
-        }
-        scanner.close();
+        if(iBaixo < iP) iVet = OrdenacaoQuickSortInt (iVet, iBaixo, iP-1);
+        if (iAlto > iP) iVet = OrdenacaoQuickSortInt (iVet, iP+1, iAlto);
+        return iVet;
     }
 }

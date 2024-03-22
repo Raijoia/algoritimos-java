@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="132a6bcd-ef60-4489-8101-57bb45228c18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio82.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "Application.Exercicio74.executor": "Run",
     "Application.Exercicio75.executor": "Run",
     "Application.Exercicio79.executor": "Run",
+    "Application.Exercicio82.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -62,7 +63,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio79">
+  <component name="RunManager" selected="Application.Exercicio82">
     <configuration name="Exercicio74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio74" />
       <module name="algoritimos-java" />
@@ -102,8 +103,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio82" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio82" />
+      <module name="algoritimos-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algoritimos.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio82" />
         <item itemvalue="Application.Exercicio79" />
         <item itemvalue="Application.Exercicio75" />
         <item itemvalue="Application.Exercicio74" />
@@ -128,7 +143,7 @@
       <workItem from="1710807560123" duration="1883000" />
       <workItem from="1710810107308" duration="21000" />
       <workItem from="1710897044300" duration="1137000" />
-      <workItem from="1711063487575" duration="6184000" />
+      <workItem from="1711063487575" duration="7258000" />
     </task>
     <servers />
   </component>

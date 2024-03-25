@@ -1,6 +1,5 @@
 package algoritimos.java;
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class Exercicio80 {
   

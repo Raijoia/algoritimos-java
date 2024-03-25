@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="132a6bcd-ef60-4489-8101-57bb45228c18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio82.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,30 +40,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Exercicio74.executor": "Run",
-    "Application.Exercicio75.executor": "Run",
-    "Application.Exercicio79.executor": "Run",
-    "Application.Exercicio82.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/raijo/IdeaProjects/algoritimos-java/src/main/java/algoritimos/java/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Exercicio74.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio75.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio79.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio82.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/raijo/IdeaProjects/algoritimos-java/src/main/java/algoritimos/java/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Exercicio82">
+}</component>
+  <component name="RunManager" selected="Application.Exercicio1">
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio1" />
+      <module name="algoritimos-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algoritimos.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercicio74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio74" />
       <module name="algoritimos-java" />
@@ -118,6 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio1" />
         <item itemvalue="Application.Exercicio82" />
         <item itemvalue="Application.Exercicio79" />
         <item itemvalue="Application.Exercicio75" />
@@ -143,7 +157,9 @@
       <workItem from="1710807560123" duration="1883000" />
       <workItem from="1710810107308" duration="21000" />
       <workItem from="1710897044300" duration="1137000" />
-      <workItem from="1711063487575" duration="7258000" />
+      <workItem from="1711063487575" duration="7512000" />
+      <workItem from="1711109202837" duration="327000" />
+      <workItem from="1711364066557" duration="559000" />
     </task>
     <servers />
   </component>

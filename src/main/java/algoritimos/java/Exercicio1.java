@@ -2,6 +2,13 @@ package algoritimos.java;
 
 public class Exercicio1 {
   public static void main(String[] args) {
-    System.out.println("Exercicio 1 em Andamento");
+    int vetor[] = new int[100];
+
+    for (int i = 0; i < vetor.length; i++) {
+      vetor[i] = i;
+      System.out.println(
+          vetor[i]
+      );
+    }
   }
 }

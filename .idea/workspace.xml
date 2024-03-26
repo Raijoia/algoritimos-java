@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="132a6bcd-ef60-4489-8101-57bb45228c18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio82.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio32.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Exercicio1.executor": "Run",
+    "Application.Exercicio11.executor": "Run",
+    "Application.Exercicio16.executor": "Run",
+    "Application.Exercicio21.executor": "Run",
+    "Application.Exercicio22.executor": "Debug",
+    "Application.Exercicio32.executor": "Run",
+    "Application.Exercicio6.executor": "Run",
     "Application.Exercicio74.executor": "Run",
     "Application.Exercicio75.executor": "Run",
     "Application.Exercicio79.executor": "Run",
@@ -63,9 +69,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio82">
-    <configuration name="Exercicio74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio74" />
+  <component name="RunManager" selected="Application.Exercicio32">
+    <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio11" />
       <module name="algoritimos-java" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio75" />
+    <configuration name="Exercicio16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio16" />
       <module name="algoritimos-java" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio79" />
+    <configuration name="Exercicio21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio21" />
       <module name="algoritimos-java" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +109,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio82" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio82" />
+    <configuration name="Exercicio22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio22" />
+      <module name="algoritimos-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algoritimos.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio32" />
       <module name="algoritimos-java" />
       <extension name="coverage">
         <pattern>
@@ -118,10 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio82" />
-        <item itemvalue="Application.Exercicio79" />
-        <item itemvalue="Application.Exercicio75" />
-        <item itemvalue="Application.Exercicio74" />
+        <item itemvalue="Application.Exercicio32" />
+        <item itemvalue="Application.Exercicio22" />
+        <item itemvalue="Application.Exercicio21" />
+        <item itemvalue="Application.Exercicio16" />
+        <item itemvalue="Application.Exercicio11" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +163,11 @@
       <workItem from="1710807560123" duration="1883000" />
       <workItem from="1710810107308" duration="21000" />
       <workItem from="1710897044300" duration="1137000" />
-      <workItem from="1711063487575" duration="7258000" />
+      <workItem from="1711063487575" duration="7512000" />
+      <workItem from="1711109202837" duration="327000" />
+      <workItem from="1711364066557" duration="4269000" />
+      <workItem from="1711368602172" duration="621000" />
+      <workItem from="1711454365771" duration="1401000" />
     </task>
     <servers />
   </component>

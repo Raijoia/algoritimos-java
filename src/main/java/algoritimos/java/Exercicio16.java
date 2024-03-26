@@ -18,5 +18,6 @@ public class Exercicio16 {
     int valor = s.nextInt();
 
     System.out.println(isPar(valor) ? "e par" : "e impar");
+    s.close();
   }
 }

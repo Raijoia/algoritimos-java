@@ -31,6 +31,7 @@ public class Exercicio11 {
       System.out.println("Valor da primeira raiz: " + raiz1);
       System.out.println("Valor da segunda raiz: " + raiz2);
     }
+    scanner.close();
   }
 
   public static double calcularDelta(double a, double b, double c) {

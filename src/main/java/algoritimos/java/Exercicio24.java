@@ -4,35 +4,36 @@ import java.util.Scanner;
 public class Exercicio24 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         System.out.println("Digite o número a ser verificado:");
-            int n = scanner.nextInt();
-            boolean primo = NumeroPrimo(n);
-            if ( n <= 0 ){
-                System.out.println("Número deve ser maior que 0");
-            } else {
-                if (primo){
+            int n = scanner.nextInt();           
+                if (NumeroPrimo(n,2)){
                     System.out.println(n + " é um número primo.\n");
                 } else {
                     System.out.println(n + " não é um número primo.\n");
                 }
+                scanner.close(); 
             }
-        scanner.close();    
-    }
-    public static boolean NumeroPrimo (int n) {
-        boolean primo = true;
-            if(n <= 1) {
-        primo = false;
-        return primo;
-        } else {
-        for (int i = 2; i<= n/2; i++) {
-            if ((n % i) == 0){
-            primo = false;
-            break;
-            }
+
+    public static boolean NumeroPrimo (int n, int divisor) {
+        if (divisor == 0) {
+            divisor = 2;
         }
-        return primo;
+        System.out.println(divisor);
+        if (n <= 1) {
+            return false;
         }
+        
+        if (divisor == n) {
+            return true;
+        }
+
+        if (n % divisor == 0) {
+            return false;
+        }
+
+        return NumeroPrimo(n, divisor + 1);
     }
+    
+    
 }
 

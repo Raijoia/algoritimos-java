@@ -1,6 +1,8 @@
- import java.util.Scanner;
+package algoritimos.java;
 
-public class ContadorCapicuas {
+import java.util.Scanner;
+
+public class Exercicio5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         

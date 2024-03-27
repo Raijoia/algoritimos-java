@@ -1,6 +1,8 @@
+package algoritimos.java;
+
 import java.util.Scanner;
 
-public class MenuNavegacaoVetor {
+public class Exercicio20 {
     static double[] vetor;
     static int posicaoAtual;
 

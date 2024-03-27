@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="132a6bcd-ef60-4489-8101-57bb45228c18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +45,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2dsrJQZvssqJ1gaczuuc8MWbIJ2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,6 +60,7 @@
     "Application.Exercicio21.executor": "Run",
     "Application.Exercicio22.executor": "Debug",
     "Application.Exercicio32.executor": "Run",
+    "Application.Exercicio42.executor": "Run",
     "Application.Exercicio6.executor": "Run",
     "Application.Exercicio74.executor": "Run",
     "Application.Exercicio75.executor": "Run",
@@ -69,20 +83,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio32">
-    <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio11" />
-      <module name="algoritimos-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algoritimos.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio42">
     <configuration name="Exercicio16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio16" />
       <module name="algoritimos-java" />
@@ -135,13 +136,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio42" />
+      <module name="algoritimos-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algoritimos.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio42" />
         <item itemvalue="Application.Exercicio32" />
         <item itemvalue="Application.Exercicio22" />
         <item itemvalue="Application.Exercicio21" />
         <item itemvalue="Application.Exercicio16" />
-        <item itemvalue="Application.Exercicio11" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +181,8 @@
       <workItem from="1711109202837" duration="327000" />
       <workItem from="1711364066557" duration="4269000" />
       <workItem from="1711368602172" duration="621000" />
-      <workItem from="1711454365771" duration="1401000" />
+      <workItem from="1711454365771" duration="1587000" />
+      <workItem from="1711496964013" duration="672000" />
     </task>
     <servers />
   </component>

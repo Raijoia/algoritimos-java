@@ -1,6 +1,8 @@
+package algoritimos.java;
+
 import java.util.Scanner;
 
-public class CalculadoraSerieRecursiva {
+public class Exercicio30 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

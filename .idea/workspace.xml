@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="132a6bcd-ef60-4489-8101-57bb45228c18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio38.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,9 +79,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio69">
-    <configuration name="Exercicio49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio49" />
+  <component name="RunManager" selected="Application.Exercicio38">
+    <configuration name="Exercicio38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio38" />
       <module name="algoritimos-java" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio38" />
         <item itemvalue="Application.Exercicio69" />
         <item itemvalue="Application.Exercicio64" />
         <item itemvalue="Application.Exercicio59" />
         <item itemvalue="Application.Exercicio50" />
-        <item itemvalue="Application.Exercicio49" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +179,7 @@
       <workItem from="1711368602172" duration="621000" />
       <workItem from="1711454365771" duration="1587000" />
       <workItem from="1711496964013" duration="4269000" />
-      <workItem from="1711534829399" duration="615000" />
+      <workItem from="1711534829399" duration="1576000" />
     </task>
     <servers />
   </component>

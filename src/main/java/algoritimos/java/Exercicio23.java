@@ -25,7 +25,7 @@ public class Exercicio23 {
         }
     }
 
-    // Função recursiva para calcular a soma dos elementos do vetor
+    
     public static int calcularSoma(int[] vetor, int indice) {
         if (indice == vetor.length - 1) {
             return vetor[indice];

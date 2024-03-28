@@ -1,6 +1,8 @@
- import java.util.Scanner;
+package algoritimos.java;
 
-public class VerificarMatrizIdentidade {
+import java.util.Scanner;
+
+public class Exercicio9 {
     static int[][] matriz;
 
     public static void main(String[] args) {

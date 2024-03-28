@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="132a6bcd-ef60-4489-8101-57bb45228c18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algoritimos/java/Exercicio48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2dsrJQZvssqJ1gaczuuc8MWbIJ2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,7 +51,16 @@
     "Application.Exercicio21.executor": "Run",
     "Application.Exercicio22.executor": "Debug",
     "Application.Exercicio32.executor": "Run",
+    "Application.Exercicio36.executor": "Run",
+    "Application.Exercicio38.executor": "Run",
+    "Application.Exercicio42.executor": "Run",
+    "Application.Exercicio48.executor": "Run",
+    "Application.Exercicio49.executor": "Run",
+    "Application.Exercicio50.executor": "Run",
+    "Application.Exercicio59.executor": "Run",
     "Application.Exercicio6.executor": "Run",
+    "Application.Exercicio64.executor": "Run",
+    "Application.Exercicio69.executor": "Run",
     "Application.Exercicio74.executor": "Run",
     "Application.Exercicio75.executor": "Run",
     "Application.Exercicio79.executor": "Run",
@@ -69,9 +82,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio32">
-    <configuration name="Exercicio11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio11" />
+  <component name="RunManager" selected="Application.Exercicio48">
+    <configuration name="Exercicio36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio36" />
       <module name="algoritimos-java" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio16" />
+    <configuration name="Exercicio38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio38" />
       <module name="algoritimos-java" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio21" />
+    <configuration name="Exercicio48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio48" />
       <module name="algoritimos-java" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio22" />
+    <configuration name="Exercicio64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio64" />
       <module name="algoritimos-java" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio32" />
+    <configuration name="Exercicio69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algoritimos.java.Exercicio69" />
       <module name="algoritimos-java" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio32" />
-        <item itemvalue="Application.Exercicio22" />
-        <item itemvalue="Application.Exercicio21" />
-        <item itemvalue="Application.Exercicio16" />
-        <item itemvalue="Application.Exercicio11" />
+        <item itemvalue="Application.Exercicio48" />
+        <item itemvalue="Application.Exercicio36" />
+        <item itemvalue="Application.Exercicio38" />
+        <item itemvalue="Application.Exercicio69" />
+        <item itemvalue="Application.Exercicio64" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +180,9 @@
       <workItem from="1711109202837" duration="327000" />
       <workItem from="1711364066557" duration="4269000" />
       <workItem from="1711368602172" duration="621000" />
-      <workItem from="1711454365771" duration="1401000" />
+      <workItem from="1711454365771" duration="1587000" />
+      <workItem from="1711496964013" duration="4269000" />
+      <workItem from="1711534829399" duration="2682000" />
     </task>
     <servers />
   </component>

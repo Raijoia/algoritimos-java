@@ -1,6 +1,8 @@
- import java.util.Scanner;
+package algoritimos.java;
 
-public class ControleProvaAtletismo {
+import java.util.Scanner;
+
+public class Exercicio35 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -1,6 +1,8 @@
- import java.util.Scanner;
+package algoritimos.java;
 
-public class MultiplicacaoRecursiva {
+import java.util.Scanner;
+
+public class Exercicio28 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

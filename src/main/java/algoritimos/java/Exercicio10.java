@@ -59,7 +59,7 @@ public class Exercicio10{
     }
 
     public static void main(String[] args) {
-    Teatro teatro = new Teatro();
+    Exercicio10 teatro = new Exercicio10();
     Scanner scanner = new Scanner(System.in);
     int opcao;
     

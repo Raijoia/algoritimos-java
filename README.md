@@ -1,7 +1,7 @@
 # Repositório para ativadade de Estrutura de dados e Analise de Algoritimos 
 
 ## Status
-Em Andamento
+Completo
 
 ## Conhecimentos de Algoritimos usados
 
